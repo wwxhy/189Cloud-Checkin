@@ -15,8 +15,8 @@ except:
     pass
 from urllib import parse
 
-username = os.environ.get("username")
-password = os.environ.get("password")
+username = os.environ.get("18392793758")
+password = os.environ.get("Lxhysy2406")
 TGBOTAPI = os.environ.get("TGBOTAPI")
 TGID = os.environ.get("TGID")
 
