@@ -17,8 +17,8 @@ from urllib import parse
 
 username = os.environ.get("18392793758")
 password = os.environ.get("Lxhysy2406")
-TGBOTAPI = os.environ.get("TGBOTAPI")
-TGID = os.environ.get("TGID")
+TGBOTAPI = os.environ.get("cxkjntm")
+TGID = os.environ.get("jntmcxk")
 
 tianyi_session = requests.Session()
 
